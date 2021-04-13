@@ -116,4 +116,12 @@ section {
 .hero-form label {
   margin: 0 5px;
 }
+
+.hero-form button {
+background-color: #024e76;
+color: #fce138;
+font-size: 16px;
+padding: 10px 20px;
+border: none;
+}
 /* Hero-Form Style End */
